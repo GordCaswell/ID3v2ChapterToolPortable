@@ -2,10 +2,11 @@
 App/*
 !App/AppInfo
 !App/DefaultData
-!App/readme.txt
 Data/
 App/AppInfo/Launcher/Debug.nsh
 App/AppInfo/pac_installer_log.ini
+Other/
+help.html
 
 Desktop.ini
 Thumbs.db
